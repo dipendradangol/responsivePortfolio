@@ -1,0 +1,22 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ -- recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipendradangol/responsivePortfolio.git"
+  },
+  "author": "Dipendra Dangol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dipendradangol/responsivePortfolio/issues"
+  },
+  "homepage": "https://github.com/dipendradangol/responsivePortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
